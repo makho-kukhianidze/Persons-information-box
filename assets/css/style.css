@@ -1,0 +1,158 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body{
+  background-image: url("../image/main-image/bk.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+h1{
+  text-align: center;
+  color: white;
+  font-weight: 900;
+  font-size: 22px;
+  background: #36101085;
+  width: 232px;
+  margin: 0 auto;
+  padding: 12px;
+}
+.main-container{
+  margin: 50px auto;
+  padding: 18px;
+  background: #9d9e9f61;
+}
+.main-box{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.box-1{
+  width: 122px;
+  background-color: #db5a5a;
+  margin: 26px;
+  padding: 5px;
+}
+.box-1 img{
+  width: 140px;
+  height: 220px;
+}
+.box-2{
+  width: 122px;
+  background-color: rgb(107 110 151);
+  margin: 26px;
+  padding: 5px;
+}
+.box-2 img{
+  width: 139px;
+  height: 220px;
+}
+.box-3{
+  width: 122px;
+  background-color: rgb(189 176 119);
+  margin: 26px;
+  padding: 5px;
+}
+.box-3 img{
+  margin-left: -15px;
+  width: 183px;
+  height: 220px;;
+}
+.box-4{
+  width: 119px;
+  background-color: rgb(197 97 172);
+  margin: 26px;
+  padding: 5px;
+}
+.box-4 img{
+  width: 124px;
+  height: 220px;
+}
+.box-5{
+  width: 119px;
+  background-color: rgb(120 97 197);
+  margin: 26px;
+  padding: 5px;
+}
+.box-5 img{
+  width: 184px;
+  height: 220px;
+}
+.box-6{
+  width: 119px;
+  background-color: rgb(100 155 123);
+  margin: 26px;
+  padding: 5px;
+}
+.box-6 img{
+  width: 154px;
+  height: 220px;
+}
+.Sophie{
+  padding: 11px;
+  text-align: center;
+  color: white;
+  background: darkred;
+  margin-top: 5px;
+}
+.Olivia{
+  padding: 11px;
+  text-align: center;
+  color: white;
+  background: darkred;
+  margin-top: 5px;
+}
+.Isabella{
+  padding: 11px;
+  text-align: center;
+  color: white;
+  background: darkred;
+  margin-top: 5px;
+}
+.Emily{
+  padding: 11px;
+  text-align: center;
+  color: white;
+  background: darkred;
+  margin-top: 5px;
+}
+.Charlotte{
+  padding: 11px;
+  text-align: center;
+  color: white;
+  background: darkred;
+  margin-top: 5px;
+}
+.Isabella{
+  padding: 11px;
+  text-align: center;
+  color: white;
+  background: darkred;
+  margin-top: 5px;
+}
+.center {
+  text-align: center;
+  color: white;
+  font-size: 21px;
+  background: #8b00003b;
+  padding: 12px;
+  font-weight: 900;
+  width: 100%;
+}
+.finale_line{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 30px;
+}
